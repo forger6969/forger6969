@@ -35,8 +35,8 @@
 ---
 
 ## 📫 Как со мной связаться
-- Email: your_email@example.com  
-- Telegram: [@ваш_ник](https://t.me/ваш_ник)
+- Email: saidazim186@gmail.com
+- Telegram: [@@Ai1d3n](https://t.me/@Ai1d3n)
 
 ---
 
