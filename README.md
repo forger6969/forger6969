@@ -63,7 +63,7 @@ I am a **FullStack Berserker**, wielding the ancient arts of **Frontend sorcery*
 
 | CHANNEL | RUNE OF SUMMONING |
 |---------|-------------------|
-| 📸 **Instagram** | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourusername) |
+| 📸 **Instagram** | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yourforger6969) |
 | 📧 **Email Grimoire** | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) |
 | 💼 **LinkedIn Covenant** | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) |
 | 🐦 **Twitter Eclipse** | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle) |
@@ -197,15 +197,15 @@ Drag, drop, conquer—the productivity flows through every pixel.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=FF6B6B&currStreakLabel=C9D1D9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?forger6969=yourforger6969&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&icon_color=8B0000&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourforger6969&theme=radical&hide_border=true&background=0D1117&stroke=8B0000&ring=8B0000&fire=FF6B6B&currStreakLabel=C9D1D9" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B0000&line=8B0000&point=FF6B6B" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?forger6969=yourforger6969&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B0000&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?forger6969=yourforger6969&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B0000&line=8B0000&point=FF6B6B" width="100%" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?forger6969=yourforger6969&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=SOULS+WITNESSED&color=8B0000&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?forger6969=yourforger6969&label=SOULS+WITNESSED&color=8B0000&style=for-the-badge" alt="Profile Views" />
 
 <img src="https://i.pinimg.com/originals/7e/36/0e/7e360e3a5a2e2c25b5f17b1475f90ec9.gif" width="600"/>
 
@@ -217,7 +217,7 @@ Drag, drop, conquer—the productivity flows through every pixel.
 
 ## 🔥 THE CONTRIBUTION BATTLEFIELD 🔥
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yourforger6969/yourforger6969/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 *Every commit is a swing of the Dragonslayer, carving my path through the darkness*
 
@@ -439,7 +439,7 @@ warrior.struggle();
 
 <img src="https://i.imgur.com/QZLmfUK.gif" width="100%"/>
 
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-8B0000?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-8B0000?style=for-the-badge&logo=github)](https://github.com/yourforger6969)
 [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-8B0000?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
 
 ```
