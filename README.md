@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://i.imgur.com/wSTpQRc.gif" width="100%"/>
+<img src="https://i.pinimg.com/originals/86/8e/29/868e29327e49fe8f0d85b4f6c1f6e96a.gif" width="100%"/>
 
 # ⚔️ THE BLACK SWORDSMAN'S CODEX ⚔️
 
-<img src="https://media.giphy.com/media/l0HlDHQEiIdY3kxlm/giphy.gif" width="500"/>
+<img src="https://i.pinimg.com/originals/0a/8d/61/0a8d6146b3bcfc9def90b1e84b0ecb25.gif" width="600"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Struggle.+Overcome.+Code.;In+this+world%2C+is+the+destiny+of+mankind;controlled+by+some+transcendental+entity...;Or+is+it+only+the+bytes+and+algorithms%3F)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 
 ## 🗡️ ABOUT THE WARRIOR 🗡️
 
-<img src="https://i.pinimg.com/originals/e5/14/30/e51430573c822e5e0139048d4b86fb91.gif" width="400"/>
+<img src="https://i.pinimg.com/originals/9f/80/83/9f8083fefb7e5bc5f86e3fcba6c39044.gif" width="500"/>
 
 </div>
 
@@ -43,7 +43,7 @@ I am a **FullStack Berserker**, wielding the ancient arts of **Frontend sorcery*
 
 *"In this world, the developer must struggle. The compiler shows no mercy."*
 
-<img src="https://64.media.tumblr.com/2da39d90147834550d1543b6b184764f/tumblr_phkq8fI2i81r60zuio1_500.gif" width="600"/>
+<img src="https://i.pinimg.com/originals/67/b3/55/67b355b1352c88a9fd9dbc0dbe71c1c6.gif" width="600"/>
 
 </div>
 
@@ -53,7 +53,7 @@ I am a **FullStack Berserker**, wielding the ancient arts of **Frontend sorcery*
 
 ## 🌑 SUMMON THE WARRIOR 🌑
 
-<img src="https://media.giphy.com/media/KztT2c4u8mYYUiMKdJ/giphy.gif" width="300"/>
+<img src="https://i.pinimg.com/originals/ac/16/e1/ac16e1e1be4f38c02c2e0a2b5e8f5f3c.gif" width="400"/>
 
 ### *"Those who dare to reach out shall witness true power"*
 
@@ -68,7 +68,7 @@ I am a **FullStack Berserker**, wielding the ancient arts of **Frontend sorcery*
 | 💼 **LinkedIn Covenant** | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) |
 | 🐦 **Twitter Eclipse** | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle) |
 
-<img src="https://i.pinimg.com/originals/d2/41/70/d24170cf600f8f0858c5268ad3c90ac5.gif" width="500"/>
+<img src="https://i.pinimg.com/originals/13/1e/20/131e20781da67c07c3c6e3850a8a43f5.gif" width="600"/>
 
 </div>
 
@@ -78,7 +78,7 @@ I am a **FullStack Berserker**, wielding the ancient arts of **Frontend sorcery*
 
 ## ⚡ THE ARSENAL: WEAPONS OF DESTRUCTION ⚡
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/2029481851131989286/C14373FB6D85E029CB2D5C64EA3B1C1B1BB75E1A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="700"/>
+<img src="https://i.pinimg.com/originals/bd/29/77/bd29770eff1f21e1db30cbe0fc432776.gif" width="600"/>
 
 ### *"Each technology is a blade in my arsenal, honed to perfection through countless battles"*
 
@@ -114,7 +114,7 @@ I am a **FullStack Berserker**, wielding the ancient arts of **Frontend sorcery*
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-<img src="https://media.tenor.com/7tFLS0cX7fgAAAAC/guts-berserk.gif" width="500"/>
+<img src="https://i.pinimg.com/originals/ca/fd/b5/cafdb5b08408c3c863ac0ce542cc2ff5.gif" width="600"/>
 
 </div>
 
@@ -124,7 +124,7 @@ I am a **FullStack Berserker**, wielding the ancient arts of **Frontend sorcery*
 
 ## 🏆 CHRONICLES OF BATTLE: THE PROJECTS 🏆
 
-<img src="https://i.pinimg.com/originals/d4/95/f3/d495f346b39c6828afa7b2a5a1b3cc26.gif" width="600"/>
+<img src="https://i.pinimg.com/originals/71/23/13/712313a84b73da922bd6d62c4116801f.gif" width="600"/>
 
 ### *"Each project is a demon slain, a kingdom conquered, a destiny forged"*
 
@@ -179,7 +179,7 @@ Drag, drop, conquer—the productivity flows through every pixel.
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/ee/94/f3/ee94f3e0adce506ec8af52d265ef8f93.gif" width="600"/>
+<img src="https://i.pinimg.com/originals/33/e9/fe/33e9fe4aa2b3dd8f42ebdf7baa6f7f8e.gif" width="600"/>
 
 </div>
 
@@ -189,7 +189,7 @@ Drag, drop, conquer—the productivity flows through every pixel.
 
 ## 📊 THE WARRIOR'S CHRONICLES: GITHUB STATISTICS 📊
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/2000865350948641806/896BE0465D0AE9DC2F45EE14ABBDDED81CA59D1C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="700"/>
+<img src="https://i.pinimg.com/originals/d9/b0/8e/d9b08e03e48c39a68b17d809d40e80ce.gif" width="600"/>
 
 ### *"Numbers tell the tale of countless battles fought in the realm of code"*
 
@@ -207,7 +207,7 @@ Drag, drop, conquer—the productivity flows through every pixel.
 
 <img src="https://komarev.com/ghpvc/?username=yourusername&label=SOULS+WITNESSED&color=8B0000&style=for-the-badge" alt="Profile Views" />
 
-<img src="https://media1.tenor.com/m/VFyKYj8XL5YAAAAC/berserk-guts.gif" width="500"/>
+<img src="https://i.pinimg.com/originals/7e/36/0e/7e360e3a5a2e2c25b5f17b1475f90ec9.gif" width="600"/>
 
 </div>
 
@@ -229,7 +229,7 @@ Drag, drop, conquer—the productivity flows through every pixel.
 
 ## 💀 ACTIVITY: THE ENDLESS STRUGGLE 💀
 
-<img src="https://64.media.tumblr.com/3f2f036c5ae83489ae77a271eb03c2cb/tumblr_p81g7eOY2I1uoyqhgo1_500.gif" width="400"/>
+<img src="https://i.pinimg.com/originals/82/47/50/824750b5b23c27725e4f3e6e4aee34d5.gif" width="500"/>
 
 </div>
 
@@ -252,7 +252,7 @@ I find my purpose, my strength, my reason to code."
 
 ## 🌙 THE PATH FORWARD: CURRENT QUEST 🌙
 
-<img src="https://media.tenor.com/QW_K5D0PPqQAAAAC/berserk-guts.gif" width="500"/>
+<img src="https://i.pinimg.com/originals/bf/07/29/bf072961269e76faa046c8c4b9b26f7a.gif" width="600"/>
 
 </div>
 
@@ -287,7 +287,7 @@ I find my purpose, my strength, my reason to code."
 
 ## 🎯 THE CODE OF THE BERSERKER 🎯
 
-<img src="https://i.pinimg.com/originals/8b/54/d9/8b54d92e3a9f1c21f57e35b83edb8ddc.gif" width="600"/>
+<img src="https://i.pinimg.com/originals/ad/f4/de/adf4de94f03c6c52ffe1f3766b5a88ca.gif" width="600"/>
 
 </div>
 
@@ -340,7 +340,9 @@ warrior.struggle();
 
 ## ⚔️ TESTIMONIALS FROM THE BATTLEFIELD ⚔️
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnE4ZDhxMGxmZm13M2czZW5jMzBhYWRmY3NwOTN4N3lpOTR3eTN1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlDHQEiIdY3kxlm/giphy.gif" width="400"/>
+<img src="https://i.pinimg.com/originals/8f/53/82/8f5382a849e2c35feb76c43bf97e2fec.gif" width="500"/>
+
+</div>nlfaWQmY3Q9Zw/l0HlDHQEiIdY3kxlm/giphy.gif" width="400"/>
 
 </div>
 
