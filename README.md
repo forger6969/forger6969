@@ -18,18 +18,20 @@
 ---
 
 ## 🌌 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@bur1boyevv) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saidazim186@gmail.com) 
+[![Instagram](https://c.tenor.com/EX2lZIS3ov0AAAAC/anime-girl-instagram.gif)](https://instagram.com/@bur1boyevv) 
+[![Email](https://c.tenor.com/3F-FqXKk6HAAAAAC/anime-mail.gif)](mailto:saidazim186@gmail.com) 
 
 ---
 
-## ⚔️ Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+## ⚔️ Tech Stack (Anime Icons)
+<div align="center">
+  <img src="https://c.tenor.com/9kSLjGgsG-0AAAAC/anime-html.gif" alt="HTML5" width="80"/>
+  <img src="https://c.tenor.com/LMjULZ0zv5AAAAAC/anime-css.gif" alt="CSS3" width="80"/>
+  <img src="https://c.tenor.com/4vBOI1uF_EAAAAAC/anime-js.gif" alt="JavaScript" width="80"/>
+  <img src="https://c.tenor.com/0xoVt3Ov1qEAAAAC/anime-react.gif" alt="React" width="80"/>
+  <img src="https://c.tenor.com/8RfD2uU2ZqYAAAAC/anime-sass.gif" alt="SASS" width="80"/>
+  <img src="https://c.tenor.com/4oVgK9aGp4UAAAAC/anime-git.gif" alt="Git" width="80"/>
+</div>
 
 ---
 
@@ -56,4 +58,4 @@
 
 ---
 
-> ⚔️ **Вдохновение:** Чёрная атмосфера, решимость и сила — всё как в Берсерке. README отражает мою страсть к коду и технологии, как меч отражает волю в битве.
+> ⚔️ **Вдохновение:** Чёрная атмосфера, решимость и сила — как в Берсерке. README отражает мою страсть к коду и технологии, словно меч отражает волю в битве.
